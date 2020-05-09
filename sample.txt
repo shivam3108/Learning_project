@@ -1,1 +1,3 @@
 this is git tutorial
+hI my name is shivam
+changes the data of sample file
