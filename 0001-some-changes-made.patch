@@ -1,0 +1,44 @@
+From 07414aaf9b7f480d0528c4ad6ee18c9e770cf912 Mon Sep 17 00:00:00 2001
+From: shivam3108 <shivamkapil753@GMAIL.COM>
+Date: Sun, 10 May 2020 15:24:38 +0530
+Subject: [PATCH] some changes made
+
+---
+ sample.txt       | 6 ------
+ src/Makefile.txt | 0
+ src/sample.c     | 4 ++++
+ 3 files changed, 4 insertions(+), 6 deletions(-)
+ delete mode 100644 sample.txt
+ create mode 100644 src/Makefile.txt
+ create mode 100644 src/sample.c
+
+diff --git a/sample.txt b/sample.txt
+deleted file mode 100644
+index c17c001..0000000
+--- a/sample.txt
++++ /dev/null
+@@ -1,6 +0,0 @@
+-
+-
+-
+-HI my name is shivam
+-
+-this is git tutorial
+\ No newline at end of file
+diff --git a/src/Makefile.txt b/src/Makefile.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/src/sample.c b/src/sample.c
+new file mode 100644
+index 0000000..1735a42
+--- /dev/null
++++ b/src/sample.c
+@@ -0,0 +1,4 @@
++HI my name is shivam
++this is git tutorial
++Checking stash cmd
++checking head parameter in checkout 
+\ No newline at end of file
+-- 
+2.23.0.windows.1
+
